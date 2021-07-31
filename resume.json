@@ -1,0 +1,56 @@
+{
+	"basics": {
+		"name": "Rahul Meena",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/88225421?v=4",
+		"email": "2020kucp1120@iiitkota.ac.in",
+		"phone": "9024754535",
+		"summary": "i am student of IIIT KOTA from CSE branch ",
+		"location": {
+			"address": "village mathuradaspura post Langdiyawas",
+			"postalCode": "302027",
+			"city": "jaipur",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "RahulME47946388",
+				"url": "https://www.twitter.com/<handle>"
+			},
+			{
+				"network": "Github",
+				"username": "Rahulmeena90",
+				"url": "https://www.github.com/<handle>/"
+			},
+			
+			{
+				"network": "Instagram",
+				"username": "rahul_meena_18_",
+				"url": "https://instagram.com/<handle>"
+			}
+		]
+	},
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-04-08 //Date",
+		"endDate": "----",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript",  "C/C++",]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "cricket"]
+	}],
+	"references": []
+}
