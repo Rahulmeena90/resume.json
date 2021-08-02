@@ -21,13 +21,13 @@
 			{
 				"network": "Github",
 				"username": "Rahulmeena90",
-				"url": "https://www.github.com/<handle>/"
+				"url": "https://raw.githubusercontent.com/Rahulmeena90/resume.json/main/resume.json"
 			},
 			
 			{
 				"network": "Instagram",
 				"username": "rahul_meena_18_",
-				"url": "https://instagram.com/<handle>"
+				"url": "https://www.instagram.com/rahul_meena_18_?r=nametag"
 			}
 		]
 	},
@@ -36,9 +36,7 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2020-04-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		
 		"courses": [
 			"Computer Science & Engineering"
 		]
