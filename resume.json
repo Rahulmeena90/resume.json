@@ -1,54 +1,69 @@
 {
-	"basics": {
-		"name": "Rahul Meena",
-		"label": "Student",
-		"picture": "https://avatars.githubusercontent.com/u/88225421?v=4",
-		"email": "2020kucp1120@iiitkota.ac.in",
-		"phone": "9024754535",
-		"summary": "i am student of IIIT KOTA from CSE branch ",
-		"location": {
-			"address": "village mathuradaspura post Langdiyawas",
-			"postalCode": "302027",
-			"city": "jaipur",
-			"countryCode": "India",
-			"region": "Rajasthan"
-		},
-		"profiles": [{
-				"network": "Twitter",
-				"username": "RahulME47946388",
-				"url": "https://www.twitter.com/<handle>"
-			},
-			{
-				"network": "Github",
-				"username": "Rahulmeena90",
-				"url": "https://github.com/Rahulmeena90/resume.json"
-			},
-			
-			{
-				"network": "Instagram",
-				"username": "rahul_meena_18_",
-				"url": "https://www.instagram.com/rahul_meena_18_?r=nametag"
-			}
-		]
-	},
-	
-	"education": [{
-		"institution": "Indian Institute of Information technology,kota",
-		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
-		
-		"courses": [
-			"Computer Science & Engineering"
-		]
-	}],
-	
-	"skills": [{
-		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript",  "C/C++",]
-	}],
-	"interests": [{
-		"name": "Sports",
-		"keywords": ["Chess", "cricket"]
-	}],
-	"references": []
-}
+    "basics": {
+        "name": "Rahul Meena",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/76112295?s=400&u=6729c85cd849af3fbfc68b41387e5c0c2e4667de&v=4",
+        "email": "2020kucp1120@iiitkota.ac.in",
+        "phone": "9024754535",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "jaipur",
+            "postalCode": "302027",
+            "city": "jaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "Rahul90",
+                "url": "https://www.github.com/Aaryan430"
+            },
+            {
+                "network": "Instagram",
+                "username": "hawk_aaryan",
+                "url": "https://www.instagram.com/hawk_aaryan/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "HIndi & English",
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Singing"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Cricket",
+            ]
+        }
+    ],
+    "references": []
